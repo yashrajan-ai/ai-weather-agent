@@ -11,7 +11,7 @@ An AI-powered weather agent that understands natural-language queries, identifie
 ## ✨ Live Demo
 
 🔗 **Try the AI Weather Agent:**
-👉 **[Live Demo]([https://ai-weather-agent.streamlit.app/](https://ai-weather-agent.streamlit.app/))**
+👉 **[Live Demo](https://ai-weather-agent.streamlit.app/)**
 
 ---
 
